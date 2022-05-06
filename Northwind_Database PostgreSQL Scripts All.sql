@@ -1,12 +1,4 @@
 -- Following script has been tested in pgAdmin.
--- If you use ppScript, please following the command instruction
-
--- Connect to another default database or test database;
--- Database: testdb;
--- Disconnect existing Northwind if you have created.  
-
-
-
 --run this separately
 CREATE DATABASE Northwind 
   WITH 
